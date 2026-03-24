@@ -1,0 +1,14 @@
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_14_1h/bug_bts_12381/cases/bug_bts_12381.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_15_1h/bug_bts_16011/cases/bug_bts_16011.sh
+cubrid-testcases-private-ex/blob/develop/shell/_35_cherry/issue_21654_server_side_loaddb/loaddb_CS/_06_issues/_15_1h/bug_bts_16011/cases/bug_bts_16011.sh
+cubrid-testcases-private-ex/blob/develop/shell/_36_damson/cbrd_23608_tde/tbl_enc_14/cases/tbl_enc_14.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_22_1h/cbrd_24103/cases/cbrd_24103.sh
+cubrid-testcases-private-ex/blob/develop/shell/_35_cherry/issue_21654_server_side_loaddb/bigPageSize/cases/bigPageSize.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_10_2h/bug_xdbms3845/cases/bug_xdbms3845.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_12_2h/bug_bts_7596/cases/bug_bts_7596.sh
+cubrid-testcases-private-ex/blob/develop/shell/_03_itrack/_itrack_1000316/cases/_itrack_1000316.sh
+cubrid-testcases-private-ex/blob/develop/shell/_36_damson/cbrd_23608_tde/tbl_enc_08/cases/tbl_enc_08.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_24_2h/cbrd_25481/cases/cbrd_25481.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_12_2h/bug_bts_10290/cases/bug_bts_10290.sh
+cubrid-testcases-private-ex/blob/develop/shell/_35_cherry/issue_21522_json/cbrd_23349/cases/cbrd_23349.sh
+cubrid-testcases-private-ex/blob/develop/shell/_06_issues/_10_2h/bug_xdbms3947/cases/bug_xdbms3947.sh

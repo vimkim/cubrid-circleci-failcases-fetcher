@@ -1,0 +1,7 @@
+[project]
+name = "cubrid-circleci-failcases-fetcher"
+version = "0.1.0"
+description = "Fetch failed test cases from CircleCI job URLs"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = ["requests"]
