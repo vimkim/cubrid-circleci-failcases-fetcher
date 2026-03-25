@@ -5,3 +5,6 @@ description = "Fetch failed test cases from CircleCI job URLs"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = ["requests"]
+
+[project.scripts]
+circleci-failcases = "main:main"

@@ -4,6 +4,14 @@
 run *urls:
     uv run python main.py {{urls}}
 
+# Install globally via uv tool (provides `circleci-failcases` command)
+install:
+    uv tool install . --force
+
+# Uninstall global command
+uninstall:
+    uv tool uninstall cubrid-circleci-failcases-fetcher
+
 # Install dependencies
 sync:
     uv sync
